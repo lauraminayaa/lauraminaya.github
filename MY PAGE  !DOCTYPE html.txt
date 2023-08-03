@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Freelancer & Data Analyst</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Freelancer & Data Analyst</p>
+    </header>
+
+    <main>
+        <h2>About Me</h2>
+        <p>Hello, I'm [Your Name], an enthusiastic freelancer specializing in data analysis and dashboard creation. I have experience in creating interactive and insightful dashboards using Power BI and Excel. My goal is to provide data-driven solutions that help businesses make informed decisions and drive growth.</p>
+
+        <h2>Experience</h2>
+        <p>As an entry-level freelancer, I have successfully completed projects on platforms like Upwork and Fiverr. My primary areas of expertise include:</p>
+        <ul>
+            <li>Dashboard Creation with Power BI</li>
+            <li>Advanced Excel Data Analysis</li>
+        </ul>
+        <p>I take pride in delivering high-quality work, meeting deadlines, and providing exceptional service to my clients.</p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Data Analysis</li>
+            <li>Dashboard Design</li>
+            <li>Power BI</li>
+            <li>Microsoft Excel</li>
+            <li>Data Visualization</li>
+            <li>Problem Solving</li>
+        </ul>
+
+        <h2>Contact</h2>
+        <p>If you have any projects or collaboration opportunities, please don't hesitate to contact me:</p>
+        <p>Email: your.email@example.com</p>
+        <p>Upwork: www.upwork.com/yourprofile</p>
+        <p>Fiverr: www.fiverr.com/yourprofile</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
