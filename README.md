@@ -34,7 +34,7 @@ I'm a passionate Data Analyst, specializing in transforming complex business dat
 ## 📈 Portfolio
 
 Explore my repositories for case studies, dashboards, and analytics solutions:
-- [Data Analysis Portfolio](https://github.com/lauraminayaa/data-analysis-portfolio)
+- [Consulting Firm Case](https://github.com/lauraminayaa/Consulting_Firm_Case)
 - [More Projects](https://github.com/lauraminayaa?tab=repositories)
 
 ---
